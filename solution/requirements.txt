@@ -1,0 +1,5 @@
+undetected_chromedriver
+webdriver_manager
+selenium
+datetime
+pandas
